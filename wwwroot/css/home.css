@@ -1,16 +1,14 @@
 /* Contenedor principal que agrupa main y aside */
 .container-layout {
     display: flex;
-    justify-content: center; /* Centra horizontalmente */
-    align-items: center; /* Centra verticalmente */
     width: 100%;
-    height: 100vh; /* Ocupa el 100% de la altura de la pantalla */
     gap: 2%; /* Espacio entre main y aside */
+    margin-top: 20px;
 }
 
 /* Main content */
 .main-content {
-    width: 75%;
+    width: 73%;
     display: flex;
     flex-direction: column;
     gap: 20px;
@@ -34,7 +32,6 @@
 
 /* Secciones dentro del main y aside */
 .main-section, .aside-section {
-
     background-color: white;
     padding: 10px;
     border-radius: 8px;

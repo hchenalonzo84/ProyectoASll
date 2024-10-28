@@ -233,6 +233,18 @@
       "PackagePath": "staticwebassets\\js\\chartjs\\graficos.js"
     },
     {
+      "Id": "C:\\Users\\josep\\Desktop\\ProyectoASll\\wwwroot\\js\\clientes.js",
+      "PackagePath": "staticwebassets\\js\\clientes.js"
+    },
+    {
+      "Id": "C:\\Users\\josep\\Desktop\\ProyectoASll\\wwwroot\\js\\cotizacion copy.js",
+      "PackagePath": "staticwebassets\\js\\cotizacion copy.js"
+    },
+    {
+      "Id": "C:\\Users\\josep\\Desktop\\ProyectoASll\\wwwroot\\js\\cotizacion.js",
+      "PackagePath": "staticwebassets\\js\\cotizacion.js"
+    },
+    {
       "Id": "C:\\Users\\josep\\Desktop\\ProyectoASll\\wwwroot\\js\\script.js",
       "PackagePath": "staticwebassets\\js\\script.js"
     },
